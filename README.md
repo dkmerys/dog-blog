@@ -1,12 +1,12 @@
-# _{Law Dogs Dog Blog}_
+# _Law Dogs Dog Blog_
 
-#### _{HTML Exercise for Epicodus}, {03.19.2020}_
+#### _HTML Exercise for Epicodus, 03.19.2020_
 
-#### By _**{Daniel Merys}**_
+#### By _**Daniel Merys**_
 
 ## Description
 
-_{This website is rudimentary example of HTML skills learned in the first 2 days of Epicodus training.}_
+_This website is rudimentary example of HTML skills learned in the first 2 days of Epicodus training._
 
 ## Setup/Installation Requirements
 
@@ -15,21 +15,21 @@ _{This website is rudimentary example of HTML skills learned in the first 2 days
 
 ## Known Bugs
 
-_{None}_
+_None_
 
 ## Support and contact details
 
-_{Reach me at DKMerys@gmail.com to provide feedback, constructive criticism, and helpful tips.}_
+_Reach me at DKMerys@gmail.com to provide feedback, constructive criticism, and helpful tips._
 
 ## Technologies Used
 
-_{Written in VS Code}_
+_Written in VS Code_
 
 ### License
 
-*{MIT License}*
+*MIT License*
 
-Copyright (c) 2020 **_{Daniel Merys}_**
+Copyright (c) 2020 **_Daniel Merys_**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
